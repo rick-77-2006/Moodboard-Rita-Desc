@@ -115,11 +115,22 @@
       position: absolute; left: 548.37px;top: 599.04px;
     }
  .contact-me {
-      color: #1f2839;
-      text-align: center;
-      font: 300 32px 'Neue Machina';
-      position: absolute; left: 636.93px;top: 623.04px;
-      width: 165.87px;
+  position: absolute;
+  width: 165.87px;
+  height: 31px;
+  left: 636.93px;
+  top: 623.04px;
+  
+  font-family: 'Neue Machina';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 31px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: #1F2839;
     }
  .group-31 {
       width: 272.14px; height: 60.58px;
@@ -132,7 +143,7 @@
       width: 272.14px; height: 60.58px;
       position: absolute; left: 802.86px;top: 1605.08px;
     }
- .---------2 {
+ .more {
       color: #1f2839;
       text-align: center;
       font: 300 27px 'Neue Machina';
@@ -181,8 +192,9 @@
       text-align: right;
       font: 300 20.34px 'Neue Machina';
       text-transform: uppercase;
-      position: absolute; left: 1407.88px;top: 108.5px;
-    transform-origin: 0 0;
+      position: absolute; 
+      left: 1349.88px;top: 108.5px;
+    /* transform-origin: 0 0; */
     transform: rotate(90deg) scale(1, 1);
     }
  .------ {
