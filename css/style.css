@@ -176,7 +176,7 @@
       width: 20px; height: 587px;
       position: static;
     }
- .------- {
+ .about-me {
       color: #1f2839;
       text-align: right;
       font: 300 20.34px 'Neue Machina';
@@ -266,7 +266,7 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, -1);
     }
- .-------2 {
+ .about-me2 {
       color: #1f2839;
       text-align: left;
       font: 400 48px 'Neue Machina';
