@@ -620,12 +620,13 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
+    /*расположение всей страницы*/
  .------------------- {
       color: #1f2839;
       text-align: right;
       font: 300 19px 'Neue Machina';
       text-transform: uppercase;
-      position: absolute; left: 206.38px;top: 1447.73px;
+      position: absolute; left: 0px;top: 0px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
