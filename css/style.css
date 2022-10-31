@@ -193,11 +193,12 @@
       font: 300 20.34px 'Neue Machina';
       text-transform: uppercase;
       position: absolute; 
-      left: 1349.88px;top: 108.5px;
+      left: 1349.88px;
+      top: 126.5px;
     /* transform-origin: 0 0; */
     transform: rotate(90deg) scale(1, 1);
     }
- .------ {
+ .servers {
       color: #1f2839;
       text-align: right;
       font: 300 20.34px 'Neue Machina';
@@ -206,7 +207,7 @@
     transform-origin: 0 0;
     transform: rotate(90deg) scale(1, 1);
     }
- .----- {
+ .cases {
       color: #1f2839;
       text-align: right;
       font: 300 20.34px 'Neue Machina';
@@ -215,7 +216,7 @@
     transform-origin: 0 0;
     transform: rotate(90deg) scale(1, 1);
     }
- .-------- {
+ .contacts {
       color: #1f2839;
       text-align: right;
       font: 300 20.34px 'Neue Machina';
@@ -637,7 +638,7 @@
       color: #1f2839;
       text-align: right;
       font: 300 19px 'Neue Machina';
-      text-transform: uppercase;
+      /* text-transform: uppercase; */
       position: absolute; left: 0px;top: 0px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
@@ -1154,7 +1155,9 @@
       color: #1e1e1e;
       text-align: left;
       font: 200 16px/128% 'Manrope';
-      position: absolute; left: 384.04px;top: 4320.66px;
+      position: absolute; 
+      left: 384.04px;
+      top: 4320.66px;
     }
  .---------------- {
       color: #1e1e1e;
