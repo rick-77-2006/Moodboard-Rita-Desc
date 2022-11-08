@@ -1,21 +1,37 @@
-.-------------------, .------------------- * { box-sizing: border-box; }.------------------- {
+.box-sizing, .box-sizing * { box-sizing: border-box; }.box-sizing {
       background: #ededed;
-      width: 1440px; height: 5678px;
+      /* width: 1440px;  */
+      width: 100%; 
+      height: 5678px;
       position: relative;
       overflow: hidden;
     }
  .--- {
       width: 3623.19px; height: 7067.47px;
-      position: static;
+      /* position: static; */
     }
- .image-12 {
+
+.image-11 {
+  position: absolute;
+  height: 90.28%;
+  width: 118.46%;
+  top: -5.93%;
+  right: 23.14%;
+  bottom: -2.21%;
+  left: 0.4%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.image-12 {
       width: 1945.94px; height: 800.18px;
       position: absolute; left: 113px;top: 4877.82px;
     }
- .image-11 {
+
+ /* .image-11 {
       width: 1556.03px; height: 1038.28px;
       position: absolute; left: -142.84px;top: -332.05px;
-    }
+    } */
  .rectangle-8 {
       background: #eceded;
       width: 288.66px; height: 285.32px;
@@ -75,7 +91,9 @@
  .rectangle-9 {
       background: linear-gradient(180deg, rgba(238, 239, 239, 0.50) 0%,rgba(238, 239, 239, 0.00) 100%);
       width: 86.39px; height: 950px;
-      position: absolute; left: 1354.98px;top: 0px;
+      position: absolute; 
+      left: 1354.98px;
+      top: 0px;
       backdrop-filter: blur(8px);
     }
  .line-1 {
@@ -180,7 +198,10 @@
       width: 178.68px; height: 26.02px;
     }
  .group-4 {
-      position: absolute; left: 663.92px;top: 149.44px;
+      position: absolute; 
+      width: 100%;
+      /* left: 663.92px; */
+      top: 149.44px;
       overflow: visible;
     }
  .group-9 {
@@ -1371,7 +1392,10 @@
     transform: rotate(180deg) scale(1, 1);
     }
  .business {
-      position: absolute; left: 223.5px;top: 309.14px;
+      position: absolute; 
+      width: 100%;
+      /* left: 223.5px; */
+      top: 309.14px;
       overflow: visible;
     }
  .assistants {
@@ -1408,7 +1432,7 @@
       color: #212529;
       text-align: left;
       background-color: #fff;
-      padding-top: 1rem;
+      /* padding-top: 1rem; */
     }
 
 /* social links */
