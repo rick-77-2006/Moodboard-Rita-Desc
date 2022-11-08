@@ -6,8 +6,10 @@
       position: relative;
       overflow: hidden;
     }
- .--- {
-      width: 3623.19px; height: 7067.47px;
+ .main-div {
+      /* width: 3623.19px;  */
+      width: 100%;
+      height: 7067.47px;
       /* position: static; */
     }
 
@@ -1399,15 +1401,24 @@
       overflow: visible;
     }
  .assistants {
-      position: absolute; left: 499.87px;top: 414.15px;
+      position: absolute; 
+      left: 350.87px;
+      top: 414.15px;
+      width: 100%;
       overflow: visible;
     }
  .subtract {
-      position: absolute; left: 652.44px;top: 309.14px;
+      position: absolute; 
+      width: 100%;
+      left: 177.44px;
+      top: 309.14px;
       overflow: visible;
     }
  .subtract2 {
-      position: absolute; left: 652.44px;top: 414.15px;
+      position: absolute;
+      width: 100%;
+      left: 180.44px;
+      top: 414.15px;
       overflow: visible;
     }
     *,
