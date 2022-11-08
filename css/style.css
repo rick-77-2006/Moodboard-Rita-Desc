@@ -133,7 +133,9 @@ width: 100%;
       background: #eceded;
   border: solid #1f2839; 
   border-width: 0.9px;
-      width: 343px; height: 77px;
+      width: 343px; 
+      
+      height: 77px;
       position: absolute; left: 548.37px;top: 599.04px;
     }
  .contact-me {
