@@ -126,7 +126,9 @@ width: 100%;
       position: absolute; left: -199.32px;top: -33.93px;
     }
  .group-8 {
-      width: 343px; height: 77px;
+      /* width: 343px; */
+      width: 100%;
+      height: 77px;
       position: static;
     }
  .rectangle-4 {
@@ -313,7 +315,7 @@ width: 100%;
       text-transform: uppercase;
       position: absolute; left: 802.86px;top: 954.97px;
     }
- .------2 {
+ .services-2 {
       color: #1f2839;
       text-align: left;
       font: 400 48px 'Neue Machina';
@@ -1375,7 +1377,7 @@ width: 100%;
       /* width: 911.53px; */
       width: 100%;
       height: 191.9px;
-      position: static;
+      /* position: static; */
     }
  .business-and-manag {
       color: #1f2839;
