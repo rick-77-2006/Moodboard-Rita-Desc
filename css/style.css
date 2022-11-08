@@ -92,7 +92,9 @@
     }
  .rectangle-9 {
       background: linear-gradient(180deg, rgba(238, 239, 239, 0.50) 0%,rgba(238, 239, 239, 0.00) 100%);
-      width: 86.39px; height: 950px;
+      /* width: 86.39px;  */
+      height: 950px;
+width: 100%;
       position: absolute; 
       left: 1354.98px;
       top: 0px;
@@ -192,7 +194,7 @@
       width: 272.14px; height: 60.58px;
       position: absolute; left: 583.93px;top: 3974.42px;
     }
- .------------ {
+ .want-same {
       color: #1f2839;
       text-align: center;
       font: 300 27px 'Neue Machina';
@@ -364,126 +366,126 @@
       font: 400 96px 'Neue Machina';
       text-transform: uppercase;
     }
- .---------3 {
+ .result-3 {
       color: #1f2839;
       text-align: left;
       font: 400 48px 'Neue Machina';
       text-transform: uppercase;
       position: absolute; left: 182px;top: 3556.65px;
     }
- .------------------ {
+ .contat-me-1 {
       color: #1f2839;
       text-align: left;
       font: 400 48px 'Neue Machina';
       text-transform: uppercase;
       position: absolute; left: 433.5px;top: 5020.7px;
     }
- .-----2 {
+ .cases-2 {
       color: #1f2839;
       text-align: left;
       font: 400 48px 'Neue Machina';
       text-transform: uppercase;
       position: absolute; left: 802.86px;top: 2549.81px;
     }
- .------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- {
+ .about-me-div {
       color: #1f2839;
       text-align: left;
       font: 400 20px/128% 'undefined';
       position: absolute; left: 802.86px;top: 1033.35px;
       width: 498.63px;
     }
-.--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------span {
+.about-me-div-span {
       color: #1f2839;
       font: 200 20px/128% 'Manrope';
     }
-.--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------span2 {
+.about-me-div-span2 {
       color: #1f2839;
       font: 600 20px/128% 'Manrope';
     }
- .------------------------------------------------------------------------------------- {
+ .about-me-international {
       color: #1f2839;
       text-align: left;
       font: 200 20px/128% 'Manrope';
       position: absolute; left: 802.86px;top: 2628.04px;
       width: 498.63px;
     }
- .-----------------------------------10------------------------- {
+ .business-assistent-10 {
       color: #1f2839;
       text-align: left;
       font: 400 20px/128% 'undefined';
       position: absolute; left: 855.95px;top: 1272.98px;
       width: 348.24px;
     }
-.-----------------------------------10--------------------------span {
+.business-assistent-10-span {
       color: #1f2839;
       font: 600 20px/128% 'Manrope';
     }
-.-----------------------------------10--------------------------span2 {
+.business-assistent-10-span2 {
       color: #1f2839;
       font: 200 20px/128% 'Manrope';
     }
- .--------------------------------------------------------------------------------------- {
+ .our-services-it {
       color: #1f2839;
       text-align: left;
       font: 200 20px/128% 'Manrope';
       position: absolute; left: 842.04px;top: 1903.02px;
       width: 278.57px;
     }
- .-------------------------------------------------------------------------------------------------------------------------------------- {
+ .pay-attansion {
       color: #1f2839;
       text-align: left;
       font: 200 20px/128% 'Manrope';
       position: absolute; left: 1024.88px;top: 2020.65px;
       width: 215.1px;
     }
- .--------------------------------------------------------------------- {
+ .cast-business-mentor {
       color: #1f2839;
       text-align: left;
       font: 200 20px/128% 'Manrope';
       position: absolute; left: 323.27px;top: 1894.67px;
       width: 287.73px;
     }
- .------------------------------------------------------------------------- {
+ .invited-mentor {
       color: #1f2839;
       text-align: left;
       font: 200 20px/128% 'Manrope';
       position: absolute; left: 489.95px;top: 2075.65px;
       width: 321.87px;
     }
- .--------------------------------------------------------- {
+ .invited-speaker {
       color: #1f2839;
       text-align: left;
       font: 200 20px/128% 'Manrope';
       position: absolute; left: 693.64px;top: 2256.13px;
       width: 230.26px;
     }
- .------------------------------------------------------------------------------------------------------------- {
+ .invited-speaker-div {
       color: #1f2839;
       text-align: left;
       font: 400 20px/128% 'undefined';
       position: absolute; left: 855.95px;top: 1354px;
       width: 415.05px;
     }
-.--------------------------------------------------------------------------------------------------------------span {
+.invited-speaker-span {
       color: #1f2839;
       font: 600 20px/128% 'Manrope';
     }
-.--------------------------------------------------------------------------------------------------------------span2 {
+.invited-speaker-span2 {
       color: #1f2839;
       font: 200 20px/128% 'Manrope';
     }
- .------------------------------------------------------------------------------------------------------ {
+ .experienced-freelancer-div {
       color: #1f2839;
       text-align: left;
       font: 400 20px/128% 'undefined';
       position: absolute; left: 855.95px;top: 1468.02px;
       width: 415.05px;
     }
-.-------------------------------------------------------------------------------------------------------span {
+.experienced-freelancer-span {
       color: #1f2839;
       font: 600 20px/128% 'Manrope';
     }
-.-------------------------------------------------------------------------------------------------------span2 {
+.experienced-freelancer-span2 {
       color: #1f2839;
       font: 200 20px/128% 'Manrope';
     }
@@ -656,15 +658,23 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
-    /*расположение всей страницы*/
- .------------------- {
-      color: #1f2839;
-      text-align: right;
-      font: 300 19px 'Neue Machina';
-      /* text-transform: uppercase; */
-      position: absolute; left: 0px;top: 0px;
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
+ 
+ .Margarita {
+  position: absolute;
+  /* width: 238px; */
+  height: 18px;
+  left: 206.38px;
+  top: 1447.73px;
+  
+  font-family: 'Neue Machina';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 18px;
+  text-align: right;
+  text-transform: uppercase;
+  
+  color: #1F2839;
     }
  .line-9 {
   border: solid #1f2839; 
@@ -1360,14 +1370,18 @@
       position: static;
     }
  .group-5 {
-      width: 911.53px; height: 191.9px;
+      /* width: 911.53px; */
+      width: 100%;
+      height: 191.9px;
       position: static;
     }
  .business-and-manag {
       color: #1f2839;
       text-align: left;
       font: 200 27.35px/128% 'Manrope';
-      position: absolute; left: 833.82px;top: 313.27px;
+      position: absolute; 
+      left: 633.82px;
+      top: 313.27px;
       /* width: 299.6px; */
       width: 100%;
 
@@ -1398,13 +1412,13 @@
  .business {
       position: absolute; 
       width: 100%;
-      /* left: 223.5px; */
+      left: -200.5px;
       top: 309.14px;
       overflow: visible;
     }
  .assistants {
       position: absolute; 
-      left: 350.87px;
+      left: 145.87px;
       top: 414.15px;
       width: 100%;
       overflow: visible;
@@ -1412,14 +1426,14 @@
  .subtract {
       position: absolute; 
       width: 100%;
-      left: 177.44px;
+      left: -25.44px;
       top: 309.14px;
       overflow: visible;
     }
  .subtract2 {
       position: absolute;
       width: 100%;
-      left: 180.44px;
+      left: -24.560000000000002px;
       top: 414.15px;
       overflow: visible;
     }
