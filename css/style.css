@@ -1174,6 +1174,7 @@ width: 100%;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
+
  .internetional-cast-2 {
       color: #1f2839;
       text-align: left;
@@ -1183,7 +1184,20 @@ width: 100%;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
- .------------------------------- {
+
+.ek-assistent {
+    color: #1f2839;
+    text-align: left;
+    font: 400 20px 'Neue Machina';
+    text-transform: uppercase;
+    position: absolute;
+    left: 300.2px;
+    top: 4540.92px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+    
+ .anna-bis-as {
       color: #1f2839;
       text-align: left;
       font: 400 20px 'Neue Machina';
@@ -1200,13 +1214,13 @@ width: 100%;
       left: 384.04px;
       top: 4320.66px;
     }
- .---------------- {
+ .irina-startup-partner-work {
       color: #1e1e1e;
       text-align: left;
       font: 200 16px/128% 'Manrope';
       position: absolute; left: 813.2px;top: 4650.25px;
     }
- .----------------2 {
+ .ek-assistent-work {
       color: #1e1e1e;
       text-align: left;
       font: 200 16px/128% 'Manrope';
